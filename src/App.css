@@ -1,0 +1,14 @@
+.listaccountcard{
+  display: flex;
+  flex-wrap: wrap;
+}
+.accountcard{
+  margin: 5px;
+  padding: 10px;
+}
+
+.loginDiv{
+  width: 20%;
+  margin: auto;
+  margin-top: 10%;
+}
